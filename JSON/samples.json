@@ -7,7 +7,7 @@
   },
   {
     "name": "Melody Guitar",
-    "file": "samples/MD.wav",
+    "file": "samples/MG.wav",
     "bpm": "120",
     "loop": "1m"
   },

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Lead Guitar ",
+    "name": "Lead Guitar",
     "file": "samples/guitar.wav",
     "bpm": "120",
     "loop": "1m"

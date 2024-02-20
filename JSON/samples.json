@@ -3,18 +3,18 @@
     "name": "Lead Guitar",
     "file": "samples/guitar.wav",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   },
   {
     "name": "Melody Guitar",
     "file": "samples/MG.wav",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   },
   {
     "name": "Tambourine",
     "file": "samples/tamb.wav",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   }
 ]

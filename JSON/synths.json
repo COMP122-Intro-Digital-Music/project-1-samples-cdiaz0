@@ -5,7 +5,7 @@
     "settings": {
       "detune": "-3",
       "portamento": "0.5",
-      "volume": "0",
+      "volume": "-5",
       "oscillator": {
         "type": "fatcustom",
         "phase": 0,
@@ -35,7 +35,7 @@
     "settings": {
       "detune": "4",
       "portamento": "2",
-      "volume": "0",
+      "volume": "-5",
       "oscillator": {
         "type": "fatcustom",
         "phase": 0,

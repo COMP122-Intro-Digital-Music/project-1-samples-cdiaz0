@@ -1,1 +1,64 @@
-[ ]
+[
+  {
+    "name": "Sequence 1",
+    "loop": "3m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "1m",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "G4",
+        "dur": "1m",
+        "vel": "0.6"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "C4",
+        "dur": "1m",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Only fools rush in",
+    "loop": "3m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "D4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "F4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:1.0",
+        "pitch": "E4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:1.0",
+        "pitch": "D4",
+        "dur": "2n",
+        "vel": "1"
+      }
+    ]
+  }
+]

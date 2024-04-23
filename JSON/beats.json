@@ -1,1 +1,22 @@
-[ ]
+[ 
+  {
+    "name": "kick",
+    "pitch": "A#3",
+    "pattern": "10001000"
+  },
+  {
+    "name": "snare",
+    "pitch": "B3",
+    "pattern": "00010010"
+  },
+  {
+    "name": "reverse cymbal",
+    "pitch": "E4",
+    "pattern": "00011110"
+  },
+  {
+    "name": "snap",
+    "pitch": "C4",
+    "pattern": "01000000"
+  }
+]

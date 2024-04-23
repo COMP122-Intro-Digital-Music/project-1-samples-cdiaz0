@@ -1,1 +1,62 @@
-[ ]
+[
+  {
+    "name": "New Wave",
+    "type": "Synth",
+    "settings": {
+      "detune": "-3",
+      "portamento": "0.5",
+      "volume": "-5",
+      "oscillator": {
+        "type": "fatcustom",
+        "phase": 0,
+        "partialCount": "3",
+        "partials": [
+          "0.39",
+          "0.53",
+          "0.67"
+        ],
+        "count": "4",
+        "spread": "20"
+      },
+      "envelope": {
+        "attack": "0.01",
+        "attackCurve": "ripple",
+        "decay": "0.5",
+        "decayCurve": "linear",
+        "sustain": "0.5",
+        "release": "1.5",
+        "releaseCurve": "ripple"
+      }
+    }
+  },
+  {
+    "name": "Soft ",
+    "type": "Synth",
+    "settings": {
+      "detune": "4",
+      "portamento": "2",
+      "volume": "-5",
+      "oscillator": {
+        "type": "fatcustom",
+        "phase": 0,
+        "partialCount": "3",
+        "partials": [
+          "0.87",
+          "0.51",
+          "0.2"
+        ],
+        "count": "3",
+        "spread": "20"
+      },
+      "envelope": {
+        "attack": "2",
+        "attackCurve": "ripple",
+        "decay": "2",
+        "decayCurve": "linear",
+        "sustain": "1",
+        "release": "1.5",
+        "releaseCurve": "bounce"
+      }
+    }
+  }
+]
